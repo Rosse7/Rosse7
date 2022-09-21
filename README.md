@@ -1,18 +1,6 @@
 - 👋 Hi, I’m @rosset7i
  
   <img src="https://c.tenor.com/AGgVj_aylZUAAAAd/coraline-dad.gif" width="150" height="150">
-
-- 👀 I’m interested in ...
- 
-  Learning my first <i>tech stack</i> so i can land my first job as a developer.
-  
-- 🌱 I’m currently learning ...
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> 
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-          
-          
-          
            
 - 📫 How to reach me ...
 
