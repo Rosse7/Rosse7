@@ -27,4 +27,5 @@
 
 - 📬 Let's Connect:
   I'm open to networking, exploring job opportunities, and connecting with like-minded professionals. Feel free to reach out if you share a passion for tech, innovation, or are interested in collaborating on exciting projects.
+  
   <a href="https://www.linkedin.com/in/matheus-rossetti-270163224/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>  
